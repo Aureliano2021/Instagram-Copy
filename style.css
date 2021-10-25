@@ -19,6 +19,12 @@ body{
     .img_principal {
       display: none;
     }
+    body{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
   }
 
 .content {
